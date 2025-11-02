@@ -1,0 +1,4 @@
+TimeCreated,User,CommandLine,EventID,Computer
+2025-11-02 10:15:00,alice,"powershell -NoProfile -EncodedCommand SGVsbG8sIEZpbGU=",1,HOST-A
+2025-11-02 10:16:12,bob,"C:\Windows\System32\net.exe localgroup Administrators bob /add",4728,HOST-B
+2025-11-02 10:17:30,carol,"notepad.exe C:\temp\notes.txt",1,HOST-C

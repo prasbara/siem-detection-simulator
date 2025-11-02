@@ -1,0 +1,3 @@
+rule_name,timestamp,source,dest_or_command,description,severity,dataset_source
+Suspicious PowerShell Command,2025-11-02 10:15:00,alice,powershell -NoProfile -EncodedCommand SGVsbG8sIEZpbGU=,matches suspicious keywords,High,Sysmon
+User Privilege Escalation,2025-11-02 10:16:12,bob,C:\Windows\System32\net.exe localgroup Administrators bob /add,eventid=4728,Medium,Sysmon
