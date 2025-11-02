@@ -1,3 +1,8 @@
+<h1 align="center" id="title">SIEM Detection Simulator</h1>
+
+<p align="center"><img src="https://socialify.git.ci/prasbara/siem-detection-simulator/image?custom_description=hadeuh+lagi+bikin+porto+soc+analyst+sebenernya%2C+pusing+juga+ternyata+masih+banyak+error&amp;description=1&amp;font=Jost&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Formal+Invitation&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+<p id="description">iya ini masih error source buat data masih dummy</p>
 # SIEM Detection Simulator
 
 Overview
